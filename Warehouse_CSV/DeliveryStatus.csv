@@ -1,0 +1,51 @@
+﻿StatusID,Status
+DS001,Delivered
+DS002,In Transit
+DS003,Pending
+DS004,Returned
+DS005,Cancelled
+DS006,Delivered
+DS007,In Transit
+DS008,Pending
+DS009,Returned
+DS010,Cancelled
+DS011,Delivered
+DS012,Returned
+DS013,In Transit
+DS014,Delivered
+DS015,Cancelled
+DS016,In Transit
+DS017,In Transit
+DS018,Delivered
+DS019,Delivered
+DS020,In Transit
+DS021,Pending
+DS022,Returned
+DS023,Cancelled
+DS024,Delivered
+DS025,In Transit
+DS026,Pending
+DS027,Returned
+DS028,Cancelled
+DS029,Delivered
+DS030,In Transit
+DS031,Pending
+DS032,Returned
+DS033,Cancelled
+DS034,Pending
+DS035,Pending
+DS036,In Transit
+DS037,Returned
+DS038,Delivered
+DS039,Cancelled
+DS040,Returned
+DS041,Cancelled
+DS042,Pending
+DS043,Returned
+DS044,Delivered
+DS045,In Transit
+DS046,Pending
+DS047,Returned
+DS048,Cancelled
+DS049,Delivered
+DS050,In Transit
